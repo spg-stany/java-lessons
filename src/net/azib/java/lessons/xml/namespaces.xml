@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person xmlns="http://megapeople.com/pers"
+	    xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	<name>
+		<title>Sir</title>
+		<first>John</first>
+		<middle>Fitzgerald Johansen</middle>
+		<last>Doe</last>
+	</name>
+	<position>Vice President of Marketing</position>
+	<resume>
+		<xhtml:html>
+			<xhtml:head>
+				<xhtml:title>Resume of John Doe</xhtml:title>
+			</xhtml:head>
+			<xhtml:body>
+				<xhtml:h1>John Doe</xhtml:h1>
+				<xhtml:p>John's a great guy, you know?</xhtml:p>
+			</xhtml:body>
+		</xhtml:html>
+	</resume>
+</person>
